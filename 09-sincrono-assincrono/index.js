@@ -18,5 +18,5 @@ function passarOCafe() {
     console.log("passando o café")
 }
 
-colocarAguaParaFerver()
-prepararPraPassarOCafe()
+colocarAguaParaFerver( )
+prepararPraPassarOCafe( )
