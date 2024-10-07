@@ -43,4 +43,4 @@ const Formatador = new Intl.DateTimeFormat('pt-br', opcoes)
 
 const dataFormatada = Formatador.format(dataAtual)
 
-console.log(dataFormatada)
+console.log(dataFormatada) 
