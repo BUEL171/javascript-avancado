@@ -12,7 +12,7 @@
 let ferverAgua = (chaleiraEstaNoFogo, fogaoEstaLigado) => {
     return new Promise((resolve, reject) => {
         if (chaleiraEstaNoFogo && fogaoEstaLigado) {
-            console.log('começando o processo de ferver água')
+            console.log('começando o processo de ferver água') 
             resolve()
         }else {
             console.log("é necessário ligar o fogão e colocar a chaleira no fogão para ferver a água")
