@@ -13,4 +13,4 @@ let pessoas = [
 
 let pessoasComIdadeDe33anos = pessoas.filter((pessoa) => pessoa.idade === 33)
 
-console.log(pessoasComIdadeDe33anos)
+console.log(pessoasComIdadeDe33anos) 
