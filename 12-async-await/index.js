@@ -15,7 +15,7 @@ let ferverAgua = (chaleiraEstaNoFogao, fogaoEstaLigado) => {
   });
 };
 
-let passarCafe = (aguaFervida) => {
+let passarCafe = (aguaFervida) => { 
   return new Promise(function (resolve) {
     console.log("Passando o café");
     resolve();
