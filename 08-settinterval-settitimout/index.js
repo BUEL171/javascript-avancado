@@ -18,4 +18,4 @@ const idDoIntervalo = setInterval(() => {
 
 console.log(idDoIntervalo)
 clearInterval(idDoIntervalo)
-clearTimeout()
+clearTimeout() 
